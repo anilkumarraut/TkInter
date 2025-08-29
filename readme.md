@@ -139,4 +139,4 @@ This project is provided for educational purposes.
 
 ## Author
 
-Created by Anil Raut.  
+By Anil Raut.  
